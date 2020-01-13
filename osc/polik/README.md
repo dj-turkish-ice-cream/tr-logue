@@ -1,0 +1,3 @@
+Polyphony emulating oscillator.
+
+
