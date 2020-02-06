@@ -7,11 +7,13 @@
         "dev_id" : 0,
         "prg_id" : 0,
         "version" : "0.2-0",
-        "name" : "sqtest",
-        "num_param" : 2,
+        "name" : "thicc",
+        "num_param" : 4,
         "params" : [
-            ["pitch2",    -12, 12, "%"],
-            ["pitch3",    -12, 12, ""]
+            ["voices",    1, 12, ""],
+            ["shape",    1, 3, ""],
+            ["detune",    0, 100, ""],
+            ["offset",    0, 72, ""]
           ]
     }
 }

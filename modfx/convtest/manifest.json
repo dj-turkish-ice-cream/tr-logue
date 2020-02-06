@@ -2,16 +2,14 @@
     "header" : 
     {
         "platform" : "nutekt-digital",
-        "module" : "osc",
+        "module" : "modfx",
         "api" : "1.0-0",
         "dev_id" : 0,
         "prg_id" : 0,
         "version" : "0.2-0",
-        "name" : "sqtest",
-        "num_param" : 2,
+        "name" : "convtest",
+        "num_param" : 0,
         "params" : [
-            ["pitch2",    -12, 12, "%"],
-            ["pitch3",    -12, 12, ""]
           ]
     }
 }
